@@ -1,4 +1,4 @@
-# MVC Structure CRUD API
+# MVC Structure Express MVC Boilerplate
 
 A clean, modular, and scalable backend API built with **Node.js, Express, and MySQL**, following the **MVC (Model-View-Controller)** architectural pattern. 
 
